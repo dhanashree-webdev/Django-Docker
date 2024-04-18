@@ -38,7 +38,7 @@ CMD ["sh", "entrypoint.sh"]
 
 Docker-compose file (docker-compose.yml)
 
-```bash
+```yaml
 version: '3.8'
 
 services:
